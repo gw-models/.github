@@ -1,8 +1,8 @@
 ## Welcome to GW Models
 
 # Meet the Team
-Gonzalo Morras, <gonzalo.morras@aei.mpg.de>
-Geraint Pratten, <g.pratten@bham.ac.uk>
+Gonzalo Morras, <gonzalo.morras@aei.mpg.de> <br />
+Geraint Pratten, <g.pratten@bham.ac.uk> <br />
 Patricia Schmidt, <p.schmidt@bham.ac.uk>
 
 <!--
